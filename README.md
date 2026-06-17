@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/alma-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Alma de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/alma-de-fuego/) |
+| **Get License** | [Music Rights & Licensing for Alma de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/alma-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
